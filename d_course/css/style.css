@@ -1,0 +1,32 @@
+a.style {
+  text-decoration: black;
+}
+
+body {
+  /*background-color: darkorange;*/
+  background: url("https://i.pinimg.com/736x/5f/6d/dd/5f6ddd5171eed61d60877df222d4237d.jpg") center top;
+  color: yellow;
+}
+
+option.style {
+  background-color: black;
+  color: darkorange;
+}
+
+center details summary.style {
+  font-size: 1.8em;
+}
+
+center strong.style {
+  font-size: 1.4em;
+}
+
+form input.style {
+  background-color: black;
+  color: darkorange;
+  font-size: 1.4em;
+}
+
+.href:hover {
+  color: black;
+}
